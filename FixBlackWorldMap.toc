@@ -1,0 +1,5 @@
+## Interface: 70100
+## Title: Fix Black World Map
+## Notes: Sometimes the world map goes small and has very large black areas. This fixes that problem.
+## Version: 1.0
+FixBlackWorldMap.lua
